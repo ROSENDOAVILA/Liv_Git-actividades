@@ -2,6 +2,7 @@
  - Listar Compute Engine : gcloud compute instances list https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
  ```
 ```
+ - Listar IPs en uso, existentes o reservadas: gcloud compute instances list  https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419#gcloud
  - Listar buckets disponibles: gcloud storage ls	https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets
  ```
 ```

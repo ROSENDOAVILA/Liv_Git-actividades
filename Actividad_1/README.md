@@ -5,12 +5,13 @@
 
 ```
  - Listar IPs en uso, existentes o reservadas: gcloud compute instances list  https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419#gcloud
+ ```
 
  gcloud compute instances describe instance-name \
   --format='get(networkInterfaces[0].networkIP)'
 
 
-
+```
  - Listar buckets disponibles: gcloud storage ls	https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets
  ```
 ```

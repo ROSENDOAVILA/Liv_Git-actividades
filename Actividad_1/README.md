@@ -17,3 +17,17 @@
 ```
  - Listar Service Accounts existentes en un proyecto: gcloud iam service-accounts list	https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 ```
+Al final, añadir las URLs de las cuales obtuvieron la información.
+
+* https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
+gcloud compute instances list  
+
+* https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419#gcloud
+
+* https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets
+
+
+* https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419#gcloud
+
+
+ ````
